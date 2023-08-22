@@ -1,1 +1,1 @@
-# crypto
+# Cryptocurrency Predictions
